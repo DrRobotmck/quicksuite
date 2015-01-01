@@ -1,5 +1,5 @@
 require "quicksuite/version"
-require "rspec-rails",
+require "rspec-rails"
 require "pry-rails"
 require "factory_girl_rails"
 require "ffaker"
