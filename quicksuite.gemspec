@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mckenneth.scott@icloud.com"]
   spec.summary       = %q{Gems for testing}
   spec.description   = %q{Includes commonly used gem's for testing in Rails}
-  spec.homepage      = "www.github.com/DrRobotmck/quicksuite"
+  spec.homepage      = "http://www.github.com/DrRobotmck/quicksuite"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
