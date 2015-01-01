@@ -8,7 +8,6 @@ require "selenium-webdriver"
 require "launchy"
 require "shoulda-matchers"
 require "simplecov"
-require "nyan-cat-formatter"
 
 module Quicksuite
 	class Engine < Rails::Engine
